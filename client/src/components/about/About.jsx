@@ -28,7 +28,7 @@ const About = () => {
             <Banner/>
             <Wrapper>
                 <Typography variant="h3">Code for Interview</Typography>
-                <Text variant="h5">I'm a Software Engineer based in India. 
+                <Text variant="h5">I'm a Software Engineer 
                     I've built websites, desktop applications and corporate software.<br />
                     If you are interested, you can view some of my favorite projects here
                     <Box component="span" style={{ marginLeft: 5 }}>
